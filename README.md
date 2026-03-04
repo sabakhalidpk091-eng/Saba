@@ -41,6 +41,4 @@ HTML, CSS, JavaScript, React.js, Tailwind CSS, Python, Django, SQL Server
 * Email: [sabakhalid@example.com](mailto:sabakhalid@example.com)
 
 ---
-Agar chaho, main agla step ke liye **projects section + GitHub stats + top languages** ka data bhi ready kar doon, jo tum bas paste kar do.
 
-Kya main wo bana doon?
